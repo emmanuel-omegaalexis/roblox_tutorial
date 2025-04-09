@@ -9,3 +9,6 @@ Install plugins in Roblox Studio
 - LSP by Nightrains
 
 
+CFrame - position
+
+
